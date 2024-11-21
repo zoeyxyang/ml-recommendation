@@ -1,6 +1,9 @@
 # ml-recommendation-system
 ### Machine Learning Group Project @Georgia Tech
 
+#### Topic: Recommendation system for fashion products
+
+
 To reproduce the result:
 
 1. clone this repository
